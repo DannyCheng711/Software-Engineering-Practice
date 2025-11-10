@@ -1,6 +1,7 @@
 # Software Engineering Practice
 
-This repository contains coursework lab tasks for the **Software System Engineering** module.
+This repository documents a progressive learning journey in software engineering and DevOps practices, developed through three laboratory exercises in the MSc Computing program at Imperial College London.
+It demonstrates the evolution from a monolithic Flask application to an API-integrated system, and finally to a Dockerized microservices architecture with continuous integration and automated testing.
 
 ## Project Structure
 
